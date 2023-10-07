@@ -1,0 +1,25 @@
+Q1. Describe the main defferences between the CSS Flexbox layout and  the CSS Grid layout. When
+would you choose the use over
+CSS Flexbox :
+
+One-Dimensional Layout.
+Content-Centered. 
+Perfect for Lists and Navigation Bars.
+Dynamic Sizing.
+Ordering Control.
+
+CSS Grid Layout:
+
+Two-Dimensional Layout.
+Precise Item Placement.
+Complex Layouts.
+Alignment and Positioning.
+Flexible Alignment of Items on a Line.
+Responsive by Design.
+
+Q2. Explain the following key properties in the Flexbox layout model
+1.justify-content:- align the items in main axis(x-axis) in parents container
+2.align-items:-  align the items in cross axis(y-axis) in parents container
+3.gap:- it give gaps between the items.
+4.flex-direction:-it is used to give direction of items 
+5.flex-wrap:-  control how flex items wrap within a flex container when there's not enough space along the main axis to accommodate all the items
